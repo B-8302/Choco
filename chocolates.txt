@@ -1,2 +1,4 @@
 dark choco
 strawberry
+apple
+orange
